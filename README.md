@@ -8,4 +8,4 @@ The Graph API can only fetch media from a public URL, so images and videos will 
 
 The publisher itself is in the private repo `luckydhananjaya/luckydhananj-autopost`. This repo has no tokens, no queue, and no captions.
 
-No media has been uploaded yet. Files will be added when the live VPS queue is migrated.
+Media for the current queue (m_m06, m_m11, m_m07, r5) is in the repo root.
